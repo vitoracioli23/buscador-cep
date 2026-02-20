@@ -20,3 +20,7 @@ Aplicação web que consome a API pública ViaCEP para buscar informações de e
 ## 🎯 Objetivo
 
 Demonstrar integração com API externa e manipulação de requisições HTTP utilizando JavaScript puro.
+
+## 🌎 Deploy
+
+🔗 [Ver projeto online] https://vitoracioli23.github.io/buscador-cep/
